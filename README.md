@@ -1,1 +1,1 @@
-<img src="https://camo.githubusercontent.com/ca8a21844f38987df8f74ce5a0983a4cd13d02a1f29b5e7b2ac4cfa8ac816bd8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6a616e6465646f6262656c6565722673686f775f69636f6e733d74727565" alt="Jan De Dobeleer's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=jandedobbeleer&amp;show_icons=true" style="max-width: 100%;">
+
