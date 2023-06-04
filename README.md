@@ -3,17 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kacpertokumpel&label=Profile%20views&color=0e75b6&style=flat" alt="kacpertokumpel" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kacpertokumpel" alt="kacpertokumpel" /></a> </p>
-
-
 
 - 💬 Pytaj o co chcesz
 
 
 
 <h3 align="left">Znajdziesz mnie tu:</h3>
-<p align="left">
-<a href="https://twitter.com/kacperek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kacperek" height="30" width="40" /></a>
 <a href="https://discord.gg/Kacperek#0527" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Kacperek#0527" height="30" width="40" /></a>
 </p>
 
